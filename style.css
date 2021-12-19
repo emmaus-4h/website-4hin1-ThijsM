@@ -3,7 +3,7 @@
 html, body {
     height: 100%;
     padding: 0;
-    background-image: url('afbeeldingen/FifaAchtergrond.jpg');
+    background-image: url('afbeeldingen/Achtergrond2.jpeg');
     background-repeat: repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
@@ -12,6 +12,14 @@ html, body {
     font: Verdana, Arial, Sans-Serif;
     }
 
+p { 
+        font-size:15px; 
+        font-family:Arial, Helvetica, sans-serif;
+        font-weight:normal;
+        font-style:normal;
+        line-height:18px;
+        color:rgb(255, 255, 255);
+}
 
 
 .text-underlined{
@@ -95,7 +103,7 @@ body{
 .linktr__goal{
   border: 2px solid rgb(255, 255, 255);
   background-color: rgb(255, 255, 255);
-  color: rgb(8, 49, 112);
+  color: rgb(255, 255, 255);
   box-shadow: rgb(8 49 112 / 24%) 0px 2px 8px 0px;
   border-radius: 2rem;
   padding: .5rem 1.25rem;
