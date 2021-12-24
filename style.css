@@ -3,7 +3,7 @@
 html, body {
     height: 100%;
     padding: 0;
-    background-image: url('afbeeldingen/Achtergrond2.jpeg');
+    background-image: url('afbeeldingen/FifaAchtergrond.jpg');
     background-repeat: repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
@@ -18,7 +18,7 @@ p {
         font-weight:normal;
         font-style:normal;
         line-height:18px;
-        color: rgb(255, 255, 255);
+        color: rgb(255, 249, 249);
 }
 
 
@@ -180,7 +180,7 @@ nav ul li {
 
 nav li a {
     display: block;
-    color: white;
+    color: navy;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
